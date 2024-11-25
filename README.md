@@ -5,9 +5,9 @@ A Python-based attendance tracking system that uses facial recognition to monito
 ---
 
 🛠 Features
-- Facial Recognition**: Detects and recognizes multiple faces in real-time using OpenCV.
-- Class Schedule Integration**: Tracks attendance based on the provided timetable (`time_table.json`).
-- Detailed Reports**: Saves attendance data to an Excel file, including time spent in class.
+- Facial Recognition : Detects and recognizes multiple faces in real-time using OpenCV.
+- Class Schedule Integration : Tracks attendance based on the provided timetable (`time_table.json`).
+- Detailed Reports : Saves attendance data to an Excel file, including time spent in class.
 
 ---
 
