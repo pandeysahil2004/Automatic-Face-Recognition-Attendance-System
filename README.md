@@ -18,13 +18,16 @@ A Python-based attendance tracking system that uses facial recognition to monito
    ```bash
    python attendance_system.py
 4. The system will save the attendance as an Excel file after the class ends.
+
 ---
 
 📋 Requirements
 Python 3.7+
 Libraries: OpenCV, Pandas, simple_facerec
 Install dependencies using:
+
 ---
+
 
 📁 File Structure
 time_table.json: Class schedule in JSON format.
