@@ -16,7 +16,7 @@ A Python-based attendance tracking system that uses facial recognition to monito
 2. Add your class schedule in a `time_table.json` file.
 3. Run the script:
    ```bash
-   python attendance_system.py
+   python main.py
 4. The system will save the attendance as an Excel file after the class ends.
 
 ---
